@@ -1,2 +1,2 @@
-# szord.cf
-My personal site
+# Intro
+Heres my site, feel free to use and modify
